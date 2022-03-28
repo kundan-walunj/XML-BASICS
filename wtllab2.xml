@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!--<!DOCTYPE books SYSTEM "wtllab2.dtd">-->
+<!--<movies xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="wtllab2.xsd">-->
+<?xml-stylesheet type="text/xsl" href="wtllab2.xslt"?>
+<movies xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="wtllab2.xsd">
+ <movie>
+ <title>The Dark Knight </title>
+ <category>Action</category>
+ <director>Christopher Nolan</director>
+ <about>When the menace known as the Joker wreaks
+  havoc and chaos on the people of Gotham, 
+  Batman must accept one of the greatest psychological
+ and physical tests of his ability to fight injustice.</about>
+ <year>2008</year>
+ <imdb>9.2</imdb>
+ </movie>
+ <movie>
+ <title>Inception</title>
+ <category>Adventure</category>
+ <director>Christopher Nolan</director>
+ <about>A thief who steals corporate secrets through the use of 
+ dream-sharing technology is given the inverse task of planting 
+ an idea into the mind of a C.E.O., but his tragic past may doom 
+ the pro..</about>
+ <year>2010</year>
+ <imdb>8.8</imdb>
+</movie>
+</movies>

@@ -1,0 +1,8 @@
+<!ELEMENT movies (movie*)>
+<!ELEMENT book (title,category,director,about,year,imdb)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT category (#PCDATA)>
+<!ELEMENT director (#PCDATA)>
+<!ELEMENT about (#PCDATA)>
+<!ELEMENT year (#PCDATA)>
+<!ELEMENT imdb (#PCDATA)>
